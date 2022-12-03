@@ -47,14 +47,10 @@ a {
 }
 
 /* changed div to nav */
-.header nav ul {
-    list-style-type: none;
-}
-
-/* changed div to nav */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    list-style-type: none;
 }
 
 /* || Main image || */
