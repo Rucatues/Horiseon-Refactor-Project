@@ -4,18 +4,27 @@
 
 The code for the Horiseon website was refactored to meet accessibility standards. HTML elements were relabeled in a semantic manner and to follow a logical structure, alt attribute text was added to images, heading attributes now fall in sequential order, and the title is now concise and descriptive. In addition, the HTML and CSS code were tidied up and comments were added during this refactoring.
 
-## Table of Contents (Optional)
+By modifying the code, it becomes more accessible and optimizes the page for search engines.
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## User Story
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
-## Installation
+## Acceptance Criteria
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
 
 ## Usage
 
@@ -27,14 +36,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ![alt text](assets/images/screenshot.png)
     ```
 
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT license
