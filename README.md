@@ -26,7 +26,14 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## Technologies used
+
+- HTML
+- CSS
+
 ## Usage
+
+After deploying, you can view this webpage on a browser.
 
 Provide instructions and examples for use. Include screenshots as needed.
 
