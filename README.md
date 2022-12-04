@@ -32,7 +32,7 @@ THEN I find a concise, descriptive title
 - CSS
 
 ## Screenshot
-    `
+
 ![image](https://user-images.githubusercontent.com/115330764/205513642-7fa567cc-cf70-4840-91e7-d0b782cd7fc3.png)
 
 ## License
