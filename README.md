@@ -31,17 +31,9 @@ THEN I find a concise, descriptive title
 - HTML
 - CSS
 
-## Usage
-
-After deploying, you can view this webpage on a browser.
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+## Screenshot
+    `
+![image](https://user-images.githubusercontent.com/115330764/205513642-7fa567cc-cf70-4840-91e7-d0b782cd7fc3.png)
 
 ## License
 
